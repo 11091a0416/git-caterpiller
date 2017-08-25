@@ -1,2 +1,2 @@
-I just added this file 1
+I just added this file 1, now it is modified
 
