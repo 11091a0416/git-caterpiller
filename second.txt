@@ -1,0 +1,97 @@
+Tell me about yourself:
+
+I'm Viswabrahmin Gnaneshwar. My core skill is Java Full Stack development carrying over 7+ years of experience.
+I have expertise in developing various applications using technologies like Java, Spring, Hibernate, JDBC and Swing. Added to it, 
+worked on various front-end technologies namely HTML,CSS,Bootstrap and various Javascripts.
+In my experience, I delt with different tools (Github, MySQL, and JIRA), databases (SQL- Oracle, SQL Server and NoSQL Amazon DynamoDB, MangoDB), platforms 
+(Eclipse, JDeveloper, and NetBeans) and web services (Rest and SOAP).
+Gained great knowledge in OOPS and MVC concepts.
+
+
+
+Currently, I am with VML client, where I work for the full stack of the application development.
+
+-->VML is a full-service global digital marketing and advertising agency with offices around the globe.
+-->It is serving some of the best and largest brands in the world like ford,sprint,bridgestone etc.
+The VML Company currently uses the BASES Systems.
+--> it mainly concentrates on forecasting the launch and re-launch of new products.
+-->bases is a collection of industry-leading forecasting models, data systems and 
+advanced analytical techniques to assist clients.
+-->It deals with creating custom reports for different clients for Panel data.
+
+
+Selenium
+
+Developed Automation scripts for the functional testing by using Selenium, JUnit, and eclipse.
+Involved in working to migrate Selenium-RC scripts to Selenium WebDriver tests.
+Developed External Library using Java for Selenium Automation.
+Developed and maintained the Automation Test Scripts Using Selenium Web driver.
+Execute the Test Scripts in Selenium Web driver using behavior driven Framework (Cucumber used)
+Developed automation script using Selenium WebDriver for cross browser testing.
+Wrote data driven Selenium Test scripts to achieve maximum test coverage with minimum Selenium Test cases.
+
+Here I have been using HTML5, CSS3 to build the website and Used Angular 2.0 for pulling the orders from Restful API asynchronously
+Worked on frameworks such as Spring boot and Hibernate and for maintaining the security I have been using Spring Security.
+I worked on Spring boot, Which is a pre-configured  set of frameworks to reduce boiler plate configuration.
+It is the the shortest way to have a Spring web application
+For debugging and error tracing, worked on LOG4j files and written Test case scenarious using JUnit.
+I am responsible for developing, depolying, support, and maintenance of the developed application and database (Using GIT and AWS).
+I interact with the client to gather the business requirements and prepare specifications document. 
+As per business requirement, developed SQL pacakages. 
+The project follows agile methodology where we have daily scrum calls for about 15 to 20 min.x	
+The timeline for the task was divided into sprints and each sprint usually it is used to be 2 weeks.
+Along with these, I was responsible for bug fixing and other issues in production.
+
+
+During my previous project, I was with ASP client. Where i work as full stack of the application development.
+-->ASP (Advanced Sterilization Products) is a divison of Johnson & Johnson company.
+--> It is a global developer of innovative infection prevention solutions and educational programs. 
+--> The company has been dedicated to protecting patients, healthcare, environment with technology, products,
+and services that focus on raising the standard of care.
+
+
+Firstname:     Gnaneshwar
+Lastname: Viswabrahmin
+D.O.B:    Aug 15/1989
+email id: gnani1232@gmail.com
+Contact : 908-941-0321
+Current location:  Kansas city,MO.
+current project: Bases
+Bachelors :May 2010
+High school: May 2006
+applied h1-b: April 2013
+current status: h1-b -> oct 2013
+expiry of h1-b: sept 2019
+
+
+
+
+-->•	Used jQuery mainly for adding several functionalities to the application. 
+-->Design, Develop and Debug high volume, scalable and distributed application server(scala)
+--> Proficient in Server side Scala/Java programming and understanding of Java Memory Model, Transactions. 
+•	Used the Struts Validator Framework to validate the form data.
+•	Developed pages using VanillaJS directives, expressions, routing capabilities
+ for bookmarking, filters, validations and Angular UI components such as grid, buttons, carousels, date pickers, modal dialogs and other input components. 
+-->Proficient in working with NoSQL Databases (MongoDB, PostgreSql, Cassandra )
+environment i work for the vml are Java, JDK, Spring, Hibernate, HTML, CSS, Ajax, jQuery, Angular 2.0,
+Express JS, Node.js, Bootstrap, AWS, Oracle, PL/SQL, Web Services, JMS RESTful, WebSphere 8, Apache, Maven, NOSQL.
+•	Worked on XenApp for virtualization products using FMA architecture.
+•	Worked on application deployment by using ANT script.
+•	Tested cross browser functionality and fixed major layout bugs for supported browsers including IE6.
+•	Used File system mechanism between process conforming and SOA.
+•	For effective response and cost effectiveness from clients used SOA. 
+•	Worked on Swing for developing application.
+•	Using Scala, Develop an Deploy the scalable application server
+•	Used Struts 2.0 Framework in the application, which is based on MVC design pattern.
+•	Had used Value Object design pattern for exchanging data between the tiers.
+•	Used Different annotations @Entity, @ID, @Attribute and @Transient from ODM Package. 
+
+Amazon Simple Notification Service (Amazon SNS) is a web service that enables applications, 
+end-users, and devices to instantly send and receive notifications from the cloud.
+
+
+
+
+
+
+
